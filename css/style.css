@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: darkgray;
+}
+
+button {
+    margin: 15px;
+    font-size: 24px;
+    text-transform: uppercase;
+    background: transparent;
+    border: 0;
+}
+.bord {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+canvas {
+    border: 1px solid white;
+}
+
+.point {
+    margin: 15px;
+    font-size: 24px;
+}
