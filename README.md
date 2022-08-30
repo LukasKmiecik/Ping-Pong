@@ -1,5 +1,4 @@
 # Ping-Pong
-
 The game was created on the base of the original game of the same title.
 
 ## Setup
